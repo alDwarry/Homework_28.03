@@ -1,0 +1,14 @@
+
+div {
+
+	float:left;
+
+	height: 200px; 
+	width: 200px; 
+	background-image: url(https://papik.pro/uploads/posts/2021-09/1630550864_23-papik-pro-p-ogon-risunok-kraskami-30.jpg);
+	background-size:  100% 100%;
+	border: 10px solid white; 
+	padding-left: 15px; 
+	color: white;
+  
+   }
